@@ -2,7 +2,9 @@
 title: 移动端Fixed布局下Input Bug解决
 date: 2019-07-23 10:53:52
 categories: '移动端'
-tags: 'Bug'
+tags:
+  - web
+  - bug
 ---
 
 在移动端开发中，fixed 元素和 input 输入框在同一页面是常有的事。但是 在键盘配唤起

@@ -1,8 +1,9 @@
 ---
 title: Hexo + Github page搭建博客
 date: 2019-07-22 13:53:06
-categories: "随笔"
+categories: '随笔'
 tags:
+  - 文章
 ---
 
 # 前言
